@@ -13,5 +13,6 @@ function destructivelyRemoveLastKitten(kitten)
 function destructivelyRemoveFirstKitten(kitten)
 {kittens.shift();}
 
-function destructivelyRemoveLastKitten(kitten)
-{kittens.pop();}
+function appendKitten(kitten)
+{var appKittArr = kittens.push(kitten);}
+
