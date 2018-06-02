@@ -10,5 +10,8 @@ var kitten = "Bob"; kittens.unshift(kitten);}
 function destructivelyRemoveLastKitten(kitten)
 {kittens.pop();}
 
-function destructivelyRemoveFirstLastKitten(kitten)
+function destructivelyRemoveFirstKitten(kitten)
 {kittens.shift();}
+
+function destructivelyRemoveLastKitten(kitten)
+{kittens.pop();}
