@@ -18,5 +18,5 @@ function appendKitten(kitten)
 kitten = "Broom"; 
 var appKittArr = kittens.push(kitten);
   return appKittArr;}
-}
+
 
