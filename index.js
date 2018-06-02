@@ -9,3 +9,6 @@ var kitten = "Bob"; kittens.unshift(kitten);}
 
 function destructivelyRemoveLastKitten(kitten)
 {kittens.pop();}
+
+function destructivelyRemoveFirstLastKitten(kitten)
+{kittens.shift();}
