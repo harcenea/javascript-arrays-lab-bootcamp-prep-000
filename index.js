@@ -15,6 +15,6 @@ function destructivelyRemoveFirstKitten(kitten)
 
 function appendKitten(kitten)
 {var appKittArr = kitten = "Broom"; kittens.push(kitten);
-  return appKittArr;
+  console.log(appKittArr};
 }
 
